@@ -1,12 +1,12 @@
-#Data Cleaning
+# Data Cleaning
 
 - scripts for cleaning Eugene CAD data
 
-#Contents
+# Contents
 
 data_cleaning.ipynb: loads the raw data (11 csv files) and outputs one cleaned file (welfare.csv) to “../data/“
 
-#Input Files
+# Input Files
 
 located in “../data/Eugene_CAD_data_noloc“:
 
@@ -33,6 +33,6 @@ EugeneCAD2024noloc.csv
 EugeneCAD2025noloc.csv
 
 
-#Libraries Used
+# Libraries Used
 
 - numpy, pandas, matplotlib, seaborn, datetime
