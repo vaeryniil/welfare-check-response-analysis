@@ -37,7 +37,7 @@ EugeneCAD2025noloc.csv
 
 ## Springfield data
 
-SPR_data_clearning.ipynb: leads the raw data (3 Excel files) and outputs one cleaned file (SPR_cleaned.csv) to ''../data/"
+SPR_data_clearning.ipynb: loads the raw data (3 Excel files) and outputs one cleaned file (SPR_cleaned.csv) to ''../data/"
 
 ### Input files 
 
