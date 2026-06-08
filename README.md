@@ -5,4 +5,6 @@ This project is intended to answer questions about how emergency responses to ca
 
 - How have the number and dispatch rates of welfare check calls in Eugene changed since CAHOOTS ceased operation there?
 
+The findings are that while the volume of total CAD calls has not changed in Eugene relative to Springfield since CAHOOTS stopped operation in Eugene, the volume of incoming welfare check calls has changed. Also, while Eugene Police Department dispatch rate relative to Springfield Police Department dispatch rate for welfare check calls has not changed since CAHOOTS ceased operation in Eugene, the number of no-dispatch responses to welfare check calls has changed.
+
 The repository is organized into cleaning and analysis sections. For more information, see the README files in each section.
