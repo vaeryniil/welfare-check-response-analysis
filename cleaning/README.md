@@ -6,7 +6,7 @@
 
 ## Eugene data
 
-EUG_data_cleaning.ipynb: loads the raw data (11 csv files) and outputs one cleaned file (welfare.csv) to “../data/“
+EUG_data_cleaning.ipynb: loads the raw data (11 csv files) and outputs one cleaned file (EUG_cleaned.csv) to “../data/“
 
 ### Input Files
 
@@ -37,7 +37,7 @@ EugeneCAD2025noloc.csv
 
 ## Springfield data
 
-SPR_data_clearning.ipynb: leads the raw data (3 Excel files) and outputs one cleaned file (SPR_welfare.csv) to ''../data/"
+SPR_data_clearning.ipynb: leads the raw data (3 Excel files) and outputs one cleaned file (SPR_cleaned.csv) to ''../data/"
 
 ### Input files 
 
@@ -51,5 +51,5 @@ located in "../data":
 
 # Libraries Used
 
-- numpy, pandas, matplotlib, seaborn, datetime
+- numpy, pandas, datetime
 
