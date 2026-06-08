@@ -1,6 +1,6 @@
 # Data Analysis 
 
-scripts for analyzing cleaned Eugene CAD data and SPR Calls for Service data
+- scripts for analyzing cleaned Eugene CAD data and SPR Calls for Service data
 
 
 # Contents
